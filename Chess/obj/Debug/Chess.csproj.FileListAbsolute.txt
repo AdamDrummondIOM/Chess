@@ -1,0 +1,6 @@
+/Users/adam/Desktop/Chess/Chess/bin/Debug/Chess.exe
+/Users/adam/Desktop/Chess/Chess/bin/Debug/Chess.pdb
+/Users/adam/Desktop/Chess/Chess/obj/Debug/Chess.csprojAssemblyReference.cache
+/Users/adam/Desktop/Chess/Chess/obj/Debug/Chess.csproj.CoreCompileInputs.cache
+/Users/adam/Desktop/Chess/Chess/obj/Debug/Chess.exe
+/Users/adam/Desktop/Chess/Chess/obj/Debug/Chess.pdb
